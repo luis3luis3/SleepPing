@@ -1,3 +1,5 @@
+;LH - Cyber Security
+
 #Include <file.au3>
 #include <Timers.au3>
 #NoTrayIcon
